@@ -7,6 +7,8 @@ This project was completed as a part of the DfE Full-Stack Web Development bootc
 Node modules have been deleted.
 
 Further, you will find the comments recieved from a code reviewer at HyperionDev below, along with the grading.
+<br>
+I utilised the Prettier VSCode extention, and a changed couple of variable definitions from var to let (as outlined in the code reviewers comments below), which was a silly mistake I made in this webpage when I submitted it for review. Hopefully, these issues are rectified, and no longer apply.
 
 <h3>Below is the task specifications for Part 2 as given by HyperionDev:</h3>
 
