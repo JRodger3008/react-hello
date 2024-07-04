@@ -2,6 +2,7 @@
 <strong>Code written by Jordan Rodger</strong>
 <br>
 <br>
+
 <strong>Task 17 - Introducing React Elements and Components - Part 2</strong>
 
 This project was completed as a part of the DfE Full-Stack Web Development bootcamp at HyperionDev. My final grade for this was 94% along with my tesla.com website clone, which will be within the tesla-clone repository.
