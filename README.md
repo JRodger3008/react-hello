@@ -1,6 +1,6 @@
 # react-hello app by Jordan Rodger
 
-Task 17 Part 2 - Introducing React Elements and Components
+Task 17 - Introducing React Elements and Components - Part 2
 
 This project was completed as a part of the DfE Full-Stack Web Development bootcamp at HyperionDev. My final grade for this was 94% along with my tesla.com website clone, which will be within the tesla-clone repository.
 <br>
